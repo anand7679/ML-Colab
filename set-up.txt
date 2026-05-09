@@ -1,0 +1,16 @@
+new folder >>
+
+
+create the environmanet __>>  python -m venv myenv
+
+
+Create Virtual Environment:
+				python -m venv myenv
+Activate Virtual Environment:
+
+				myenv\Scripts\activate
+Install Dependencies:
+
+				pip install -r requirements.txt
+
+
